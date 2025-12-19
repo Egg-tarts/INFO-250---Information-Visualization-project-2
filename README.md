@@ -1,10 +1,3 @@
 # INFO-250---Information-Visualization---project2
 
-Have you ever looked at a chart and felt more confused than before? Choosing the right AI
-model is hard work, and it becomes even harder when the data comparing them is confusing. We
-looked at a key chart from the recent "Spider 2.0" paper, which tries to explain why AI agents fail at
-complex database tasks. The original chart was a fancy, multi-layered circle that looked nice but was
-very difficult to read. It hid the most important information behind confusing angles and tilted text.
-To fix this, we turned the complex circle into a clear, sorted bar chart. Our improved version tells a
-simple, instant story: it shows exactly where the AI makes mistakes, without forcing the reader to
-solve a visual puzzle first.
+Have you ever looked at a chart and felt more confused than before? Choosing the right AI model is hard work, and it becomes even harder when the data comparing them is confusing. We looked at a key chart from the recent "Spider 2.0" paper, which tries to explain why AI agents fail at complex database tasks. The original chart was a fancy, multi-layered circle that looked nice but was very difficult to read. It hid the most important information behind confusing angles and tilted text. To fix this, we turned the complex circle into a clear, sorted bar chart. Our improved version tells a simple, instant story: it shows exactly where the AI makes mistakes, without forcing the reader to solve a visual puzzle first.
